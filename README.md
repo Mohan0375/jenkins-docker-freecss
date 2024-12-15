@@ -5,6 +5,7 @@
 ``` bash
 sudo hostnamectl set-hostname sonarqube
 /bin/bash
+# test sonar qube
 
 
 

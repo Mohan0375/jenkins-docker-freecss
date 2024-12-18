@@ -1,2 +1,0 @@
-This is the test to see webhook pulls the requests automatically!
-I am testing the sonarqube step
